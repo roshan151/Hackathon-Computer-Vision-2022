@@ -1,0 +1,2 @@
+# hackathon-spacepenguins
+This project was created by me and 4 of my colleagues for CBRE Hackathon which saw 70 teams participating from US, Europe and India. We used Google Sattelite images and data from other Google APIs like Google Distance and Places APIs to train a real estate price prediction model. The model used a hybrid architechture to concate convolutions from images and activation from numerical data passed through dense layers. We recieved jury pick award in the hackathon (4th place).
